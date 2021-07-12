@@ -1,10 +1,11 @@
 import React from 'react'
+import { Routes } from './Routes'
 
 
 function App() {
   return (
     <div>
-      <h1>Helllo World</h1>
+      <Routes />
     </div>
   );
 }
